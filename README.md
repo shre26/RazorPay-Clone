@@ -51,7 +51,7 @@ Open **index.html** in your browser to view the project.
 
  Hero Section ✅
 
- Feature Cards
+ Feature Cards ✅
 
  Payment Suite
 
