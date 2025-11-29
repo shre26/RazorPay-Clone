@@ -45,21 +45,6 @@ npm run dev
 Open **index.html** in your browser to view the project.
 
 ---
-## 🌿 Work in Progress
-
- Navbar ✅
-
- Hero Section ✅
-
- Feature Cards ✅
-
- Payment Suite
-
- Footer
-
- Full Responsiveness & Animations
-
----
 ## 🌼 Note
 
 This project is for learning & practice only
