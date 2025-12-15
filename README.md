@@ -31,7 +31,7 @@ razorpay-clone/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/razorpay-landing-clone.git
+git clone https://github.com/shre26/RazorPay-Clone.git
 
 # Initialize npm (Only once)
 npm init -y
